@@ -7,8 +7,8 @@ nas configurações globais do git.
 
 ```bash
 
-git config --global user.name "Arthur"
-git config --global user.email "arthurpimentelparreira13@gmail.com"
+git config --global user.name "nome"
+git config --global user.email "e-mail"
 
 ```
 
