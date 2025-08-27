@@ -23,9 +23,4 @@ Com o "git add" você coloca arquivos na área de staging, preparando-os para se
 
 Com o "git commit -m "Msg" você registra as alterações no histórico do repositório, deixando uma mensagem que descreve o que foi feito.
 
-<<<<<<< HEAD
-Usando "git push" você envia os commits para o github.
-=======
 
-v2222
->>>>>>> 5a798ae74cac0c8e0d6b45da9e004612ead99dd1
