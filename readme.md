@@ -24,7 +24,7 @@ Com o "git add" você coloca arquivos na área de staging, preparando-os para se
 Com o "git commit -m "Msg" você registra as alterações no histórico do repositório, deixando uma mensagem que descreve o que foi feito.
 
 
-PULL baixa todas as atualizações que o repositório tem no Github e não está no seu pc.
+PULL baixa todas as atualizações que o repositório tem no Github que não está no seu pc.
 ````bash
 git pull
 ````
